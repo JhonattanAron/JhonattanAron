@@ -37,7 +37,7 @@ Sobre Mi
 <hr id="4c028e41-0ed2-4b87-98f1-672ae4d4caf2"/>
 <figure id="9f75ded8-8ded-47e4-bf09-31a7a4058f1d" class="image">
 <a href="Hello%20I%E2%80%99am%20Aron%20Cachago%20a19432f14e4d4575b17587fe2cd7b047/Untitled.png">
-<img style="width:1080px" src="Hello%20I%E2%80%99am%20Aron%20Cachago%20a19432f14e4d4575b17587fe2cd7b047/Untitled.png"/>
+  ![image](https://github.com/JhonattanAron/JhonattanAron/assets/115675860/6a1ca237-f9b2-400a-b4c5-bea5329227a0)
 </a>
 </figure>
 <p id="4aab25bf-2280-458f-989f-53f89b3f72d3" class=""></p>
