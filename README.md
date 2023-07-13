@@ -32,12 +32,6 @@ Sobre Mi
 <li style="list-style-type:disc">🧑‍🏫 Desarrollador - PHP</li>
 </ul>
 </div>
-</figure>
-<figure id="9e26f27e-a262-4045-aaf0-3248febb03c0" class="link-to-page">
-<a href="https://www.notion.so/Apasionado-Por-la-Tecnolog-a-9e26f27ea2624045aaf03248febb03c0?pvs=21">
-<img class="icon" src="https://www.notion.so/icons/battery-charging_purple.svg"/>Apasionado Por la Tecnología
-</a>
-</figure>
 <p id="93e29b28-f682-49ca-bb39-b21280e92358" class=""></p>
 <h3 id="76964ab3-abff-4f91-94e6-187d496b5ffe" class="">Skills</h3>
 <hr id="4c028e41-0ed2-4b87-98f1-672ae4d4caf2"/>
