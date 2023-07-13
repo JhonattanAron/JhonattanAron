@@ -36,18 +36,16 @@ Sobre Mi
 <h3 id="76964ab3-abff-4f91-94e6-187d496b5ffe" class="">Skills</h3>
 <hr id="4c028e41-0ed2-4b87-98f1-672ae4d4caf2"/>
 <figure id="9f75ded8-8ded-47e4-bf09-31a7a4058f1d" class="image">
-<a href="Hello%20I%E2%80%99am%20Aron%20Cachago%20a19432f14e4d4575b17587fe2cd7b047/Untitled.png">
   [image](https://github.com/JhonattanAron/JhonattanAron/assets/115675860/6a1ca237-f9b2-400a-b4c5-bea5329227a0)
-</a>
 </figure>
 <p id="4aab25bf-2280-458f-989f-53f89b3f72d3" class=""></p>
 <h3 id="bf169fb2-b080-4dd6-b65c-b7cb2e1133b7" class="">📈 Courses</h3>
 <hr id="14490917-dbf4-46a5-b1df-5016aa833dc9"/>
 <p id="5fe30fea-3adb-4674-95b5-6041ed438a87" class="block-color-gray">Abre el desplegable para ver más detalles.</p>
 <ul id="40024c2e-54b4-4f69-bcc0-a5a3c1e05c19" class="toggle">
-<li><details open=""><summary>Analysis and Design of Systems</summary>
-<li><details open=""><summary>Software Development Methodologies</summary>
-<li><details open=""><summary>Object-oriented programming</summary>
-<li><details open=""><summary>Operating Systems</summary>
+<li><summary>Analysis and Design of Systems</summary>
+<li><summary>Software Development Methodologies</summary>
+<li><summary>Object-oriented programming</summary>
+<li><summary>Operating Systems</summary>
 
 
