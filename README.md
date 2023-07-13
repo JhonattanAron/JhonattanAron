@@ -1,28 +1,5 @@
-# Hello, soy Aron Cachago
-
-Este es un ejemplo de README para GitHub. Puedes usarlo como base y agregar tu propio contenido.
-
-## Uso
-
-1. Clona este repositorio.
-2. Abre el archivo `index.html` en tu navegador.
-
-## Estilo
-
-El estilo del documento está definido en el archivo CSS adjunto. Puedes personalizarlo según tus necesidades.
-
-## Contribución
-
-Si deseas contribuir a este proyecto, sigue los siguientes pasos:
-
-1. Haz un fork de este repositorio.
-2. Crea una rama con la nueva característica: `git checkout -b mi-nueva-caracteristica`.
-3. Realiza los cambios necesarios y haz commit: `git commit -m "Agrega mi nueva característica"`.
-4. Envía los cambios a tu repositorio remoto: `git push origin mi-nueva-caracteristica`.
-5. Abre un pull request en este repositorio.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Para más información, consulta el archivo [LICENSE](LICENSE).
-
-
+</style></head><body><article id="a19432f1-4e4d-4575-b175-87fe2cd7b047" class="page sans"><header><img class="page-cover-image" src="https://w.forfun.com/fetch/99/9998247f121f83a099c19ab8f6232db8.jpeg" style="object-position:center 50%"/><div class="page-header-icon page-header-icon-with-cover"><img class="icon" src="https://images.vexels.com/content/204038/preview/web-developer-logo-design-29b5d4.png"/></div><h1 class="page-title">Hello I’am Aron Cachago</h1><p class="page-description"></p></header><div class="page-body"><figure class="block-color-gray_background callout" style="white-space:pre-wrap;display:flex" id="85def1c1-c8df-42ac-82c2-96aa0a4291dd"><div style="font-size:1.5em"><img class="icon" src="https://www.notion.so/icons/server_brown.svg"/></div><div style="width:100%">Sobre Mi<ul id="7e945256-5ecc-4aa7-a21b-fcde054d53c3" class="bulleted-list"><li style="list-style-type:disc">🎗️Full Stack Developer</li></ul><ul id="bf987b68-bdcd-4150-9e07-4f90082aa404" class="bulleted-list"><li style="list-style-type:disc">📲 Desarrollo Web</li></ul><ul id="78e57182-6100-42c3-9c0c-77a3c3a36504" class="bulleted-list"><li style="list-style-type:disc">🎥 Spring Boot - Java</li></ul><ul id="2ae902ec-115d-4cb7-8521-a6e712d52a9f" class="bulleted-list"><li style="list-style-type:disc">✏️ React - JavaScript</li></ul><ul id="5032902f-0d38-411f-87f4-ca99c97f03c8" class="bulleted-list"><li style="list-style-type:disc">📗SQL Databases</li></ul><ul id="f6dbe9b0-b4d9-4fa2-8001-d38bf1d8d68d" class="bulleted-list"><li style="list-style-type:disc">🧑‍🏫 Desarrollador - PHP</li></ul></div></figure><figure id="9e26f27e-a262-4045-aaf0-3248febb03c0" class="link-to-page"><a href="https://www.notion.so/Apasionado-Por-la-Tecnolog-a-9e26f27ea2624045aaf03248febb03c0?pvs=21"><img class="icon" src="https://www.notion.so/icons/battery-charging_purple.svg"/>Apasionado Por la Tecnología</a></figure><p id="93e29b28-f682-49ca-bb39-b21280e92358" class="">
+</p><h3 id="76964ab3-abff-4f91-94e6-187d496b5ffe" class="">Skills</h3><hr id="4c028e41-0ed2-4b87-98f1-672ae4d4caf2"/><figure id="9f75ded8-8ded-47e4-bf09-31a7a4058f1d" class="image"><a href="Hello%20I%E2%80%99am%20Aron%20Cachago%20a19432f14e4d4575b17587fe2cd7b047/Untitled.png"><img style="width:1080px" src="Hello%20I%E2%80%99am%20Aron%20Cachago%20a19432f14e4d4575b17587fe2cd7b047/Untitled.png"/></a></figure><p id="4aab25bf-2280-458f-989f-53f89b3f72d3" class="">
+</p><h3 id="bf169fb2-b080-4dd6-b65c-b7cb2e1133b7" class="">📈 Courses</h3><hr id="14490917-dbf4-46a5-b1df-5016aa833dc9"/><p id="5fe30fea-3adb-4674-95b5-6041ed438a87" class="block-color-gray">Abre el desplegable para ver más detalles.</p><ul id="40024c2e-54b4-4f69-bcc0-a5a3c1e05c19" class="toggle"><li><details open=""><summary>Analysis and Design of Systems</summary><p id="33da5fbf-580b-44a7-98cd-e51e5df600a9" class="block-color-gray">Desplázate por la hoja de cálculo para ver las cifras previstas.</p><figure id="5db826ac-44ac-4679-9a4a-5876c463d84a"><div class="source"><a href="https://docs.google.com/spreadsheets/d/1lnIhXI5aayWeI_CwqzBZN2Hqlk3AtYgB7936QGDayTY/edit?rm=minimal#gid=0">https://docs.google.com/spreadsheets/d/1lnIhXI5aayWeI_CwqzBZN2Hqlk3AtYgB7936QGDayTY/edit?rm=minimal#gid=0</a></div></figure></details></li></ul><ul id="1c2a6233-ac3c-417e-b144-fdf1cbc6f741" class="toggle"><li><details open=""><summary>Software Development Methodologies</summary><p id="6fb8949f-0c15-4b9e-b55a-905730a4e8ec" class="block-color-gray">Añade más detalles aquí…</p><ul id="80a29b94-7396-4f30-8fe3-f4d2254ba395" class="bulleted-list"><li style="list-style-type:disc"></li></ul></details></li></ul><ul id="5debc6ae-39cb-4fa6-b502-9027b8e78773" class="toggle"><li><details open=""><summary>Object-oriented programming</summary><p id="3fe7ce3e-cf54-4e9b-a9a7-dc743e86c27a" class="block-color-gray">Añade más detalles aquí…</p><ul id="9273fc74-a8f0-4cb2-a993-fedb57bbcc4d" class="bulleted-list"><li style="list-style-type:disc"></li></ul></details></li></ul><ul id="83501ee5-c49c-4a1e-a144-e9ec4fe07261" class="toggle"><li><details open=""><summary>Operating Systems</summary><p id="4a612f1e-0bb8-4840-a8f4-b6aabfa5e6b4" class="block-color-gray">Añade más detalles aquí…</p><ul id="58f79e64-0755-431d-af9e-0918188f62da" class="bulleted-list"><li style="list-style-type:disc"></li></ul></details></li></ul><p id="51889702-6e53-47c6-beab-a2c7031cb707" class="">
+</p><hr id="95fa2030-6eb5-4247-9940-88fb7e313922"/><p id="6fcf37a4-b71c-4f8f-b9e8-cee2e12ec24a" class="">
+</p></div></article></body></html>
