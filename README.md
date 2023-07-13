@@ -1,14 +1,8 @@
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<title>Hello I’am Aron Cachago</title>
-</head>
+
 <body>
 <article id="a19432f1-4e4d-4575-b175-87fe2cd7b047" class="page sans">
 <header>
 <img class="page-cover-image" src="https://w.forfun.com/fetch/99/9998247f121f83a099c19ab8f6232db8.jpeg" style="object-position:center 50%"/>
-<div class="page-header-icon page-header-icon-with-cover">
-<img class="icon" src="https://images.vexels.com/content/204038/preview/web-developer-logo-design-29b5d4.png"/>
 </div>
 <h1 class="page-title">Hello I’am Aron Cachago</h1>
 <p class="page-description"></p>
