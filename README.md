@@ -3,7 +3,7 @@
 <article id="a19432f1-4e4d-4575-b175-87fe2cd7b047" class="page sans">
 <header>
 <h1 class="page-title">Hello I’am Aron Cachago</h1>
-<img class="page-cover-image" src="https://w.forfun.com/fetch/99/9998247f121f83a099c19ab8f6232db8.jpeg" style="object-position:center 50%"/>
+<img class="page-cover-image" src="https://w.forfun.com/fetch/99/9998247f121f83a099c19ab8f6232db8.jpeg" style="object-position:center 50%;border-radius:50px"/>
 </div>
 <p class="page-description"></p>
 </header>
@@ -12,7 +12,7 @@
 <div style="font-size:1.5em">
 </div>
 <div style="width:100%">
-Sobre Mi
+<h3>Sobre Mi</h3>
 <ul id="7e945256-5ecc-4aa7-a21b-fcde054d53c3" class="bulleted-list">
 <li style="list-style-type:disc">🎗️Full Stack Developer</li>
 </ul>
