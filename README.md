@@ -10,7 +10,6 @@
 <div class="page-body">
 <figure class="block-color-gray_background callout" style="white-space:pre-wrap;display:flex" id="85def1c1-c8df-42ac-82c2-96aa0a4291dd">
 <div style="font-size:1.5em">
-<img class="icon" src="https://www.notion.so/icons/server_brown.svg"/>
 </div>
 <div style="width:100%">
 Sobre Mi
