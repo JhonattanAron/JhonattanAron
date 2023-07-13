@@ -17,7 +17,7 @@
 <li style="list-style-type:disc">🎗️Full Stack Developer</li>
 </ul>
 <ul id="bf987b68-bdcd-4150-9e07-4f90082aa404" class="bulleted-list">
-<li style="list-style-type:disc">📲 Desarrollo Web</li>
+<li style="list-style-type:disc">📲 Web Development</li>
 </ul>
 <ul id="78e57182-6100-42c3-9c0c-77a3c3a36504" class="bulleted-list">
 <li style="list-style-type:disc">🎥 Spring Boot - Java</li>
