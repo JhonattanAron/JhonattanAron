@@ -3,7 +3,7 @@
 <article id="a19432f1-4e4d-4575-b175-87fe2cd7b047" class="page sans">
 <header>
 <h1 class="page-title">Hello I’am Aron Cachago</h1>
-<img class="page-cover-image" src="https://w.forfun.com/fetch/99/9998247f121f83a099c19ab8f6232db8.jpeg" style="object-position:center 50%;border-radius:50px"/>
+<img class="page-cover-image" src="https://w.forfun.com/fetch/99/9998247f121f83a099c19ab8f6232db8.jpeg" style="object-position:center 50%;border-radius: 50px;"/>
 </div>
 <p class="page-description"></p>
 </header>
