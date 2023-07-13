@@ -41,7 +41,6 @@
 <p id="4aab25bf-2280-458f-989f-53f89b3f72d3" class=""></p>
 <h3 id="bf169fb2-b080-4dd6-b65c-b7cb2e1133b7" class="">📈 Courses</h3>
 <hr id="14490917-dbf4-46a5-b1df-5016aa833dc9"/>
-<p id="5fe30fea-3adb-4674-95b5-6041ed438a87" class="block-color-gray">Abre el desplegable para ver más detalles.</p>
 <ul id="40024c2e-54b4-4f69-bcc0-a5a3c1e05c19" class="toggle">
 <li><summary>Analysis and Design of Systems</summary>
 <li><summary>Software Development Methodologies</summary>
