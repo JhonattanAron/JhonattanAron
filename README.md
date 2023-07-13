@@ -46,5 +46,9 @@
 <li><summary>Software Development Methodologies</summary>
 <li><summary>Object-oriented programming</summary>
 <li><summary>Operating Systems</summary>
+<li><summary>Java</summary>
+<li><summary>Java Script</summary>
+<li><summary>PHP</summary>
+<li><summary>Kotlin</summary>
 
 
