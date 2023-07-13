@@ -46,6 +46,8 @@ Sobre Mi
 <p id="5fe30fea-3adb-4674-95b5-6041ed438a87" class="block-color-gray">Abre el desplegable para ver más detalles.</p>
 <ul id="40024c2e-54b4-4f69-bcc0-a5a3c1e05c19" class="toggle">
 <li><details open=""><summary>Analysis and Design of Systems</summary>
-<p id="33da5fbf-580b-44a7-98cd-e51e5df600a9" class="block-color-gray">Desplázate por la hoja de cálculo para ver las cifras previstas.</p>
-<figure id="5 al final.
+<li><details open=""><summary>Software Development Methodologies</summary>
+<li><details open=""><summary>Object-oriented programming</summary>
+<li><details open=""><summary>Operating Systems</summary>
+
 
