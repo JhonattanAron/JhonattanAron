@@ -3,7 +3,7 @@
 <article id="a19432f1-4e4d-4575-b175-87fe2cd7b047" class="page sans">
 <header style="display: flex;flex-direction: column;align-items: center;">
 <h1 class="page-title">Hello I’am Aron Cachago</h1>
-<img height="400px" src="[https://w.forfun.com/fetch/99/9998247f121f83a099c19ab8f6232db8.jpeg](https://github.com/JhonattanAron/JhonattanAron/assets/115675860/d4666fad-63f9-477f-a3ff-0896146fb8b6)" style="object-position:center 50%;border-radius: 50px;"/>
+<img height="400px" src="https://github.com/JhonattanAron/JhonattanAron/assets/115675860/d4666fad-63f9-477f-a3ff-0896146fb8b6" style="object-position:center 50%;border-radius: 50px;"/>
 
 </div>
 <p class="page-description"></p>
