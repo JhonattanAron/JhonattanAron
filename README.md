@@ -51,5 +51,6 @@
 <li><summary>Java Script</summary>
 <li><summary>PHP</summary>
 <li><summary>Kotlin</summary>
+<li><summary>Angular</summary>
 
 
