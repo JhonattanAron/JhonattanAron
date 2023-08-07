@@ -14,6 +14,7 @@
 </div>
 <div style="width:100%">
 <h3>About Me</h3>
+<hr id="14490917-dbf4-46a5-b1df-5016aa833dc9"/>
 <ul id="7e945256-5ecc-4aa7-a21b-fcde054d53c3" class="bulleted-list">
 <li style="list-style-type:disc">🎗️Full Stack Developer</li>
 </ul>
