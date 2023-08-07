@@ -33,8 +33,6 @@
 <li style="list-style-type:disc">🧑‍🏫 Desarrollador - PHP</li>
 </ul>
 </div>
-<hr id="4c028e41-0ed2-4b87-98f1-672ae4d4caf2"/>
-<p id="4aab25bf-2280-458f-989f-53f89b3f72d3" class=""></p>
 <h3 id="bf169fb2-b080-4dd6-b65c-b7cb2e1133b7" class="">📈 Courses</h3>
 <hr id="14490917-dbf4-46a5-b1df-5016aa833dc9"/>
 <ul id="40024c2e-54b4-4f69-bcc0-a5a3c1e05c19" class="toggle">
