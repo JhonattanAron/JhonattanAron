@@ -36,9 +36,6 @@
 <p id="93e29b28-f682-49ca-bb39-b21280e92358" class=""></p>
 <h3 id="76964ab3-abff-4f91-94e6-187d496b5ffe" class="">Skills</h3>
 <hr id="4c028e41-0ed2-4b87-98f1-672ae4d4caf2"/>
-<figure id="9f75ded8-8ded-47e4-bf09-31a7a4058f1d" class="image">
-  <img src="https://github.com/JhonattanAron/JhonattanAron/assets/115675860/d59bacc9-25d0-4d09-b263-d2bf4661945e" alt="">
-</figure>
 <p id="4aab25bf-2280-458f-989f-53f89b3f72d3" class=""></p>
 <h3 id="bf169fb2-b080-4dd6-b65c-b7cb2e1133b7" class="">📈 Courses</h3>
 <hr id="14490917-dbf4-46a5-b1df-5016aa833dc9"/>
