@@ -19,16 +19,19 @@
 <li style="list-style-type:disc">🎗️Full Stack Developer</li>
 </ul>
 <ul id="bf987b68-bdcd-4150-9e07-4f90082aa404" class="bulleted-list">
-<li style="list-style-type:disc">📲 Web Development</li>
+<li style="list-style-type:disc">💻 Web Development</li>
 </ul>
 <ul id="78e57182-6100-42c3-9c0c-77a3c3a36504" class="bulleted-list">
-<li style="list-style-type:disc">🎥 Spring Boot - Java</li>
+<li style="list-style-type:disc">📗 Spring Boot - Java</li>
 </ul>
 <ul id="2ae902ec-115d-4cb7-8521-a6e712d52a9f" class="bulleted-list">
-<li style="list-style-type:disc">✏️ React - JavaScript</li>
+<li style="list-style-type:disc">💎 React - JavaScript</li>
+</ul>
+<ul id="2ae902ec-115d-4cb7-8521-a6e712d52a9f" class="bulleted-list">
+<li style="list-style-type:disc">📔 Angular - TypeScript</li>
 </ul>
 <ul id="5032902f-0d38-411f-87f4-ca99c97f03c8" class="bulleted-list">
-<li style="list-style-type:disc">📗SQL Databases</li>
+<li style="list-style-type:disc">📖 SQL Databases</li>
 </ul>
 <ul id="f6dbe9b0-b4d9-4fa2-8001-d38bf1d8d68d" class="bulleted-list">
 <li style="list-style-type:disc">🧑‍🏫 Desarrollador - PHP</li>
@@ -46,5 +49,6 @@
 <li><summary>PHP</summary>
 <li><summary>Kotlin</summary>
 <li><summary>Angular</summary>
+<li><summary>TypeScript</summary>
 
 
